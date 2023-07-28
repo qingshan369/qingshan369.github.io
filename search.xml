@@ -4,7 +4,7 @@
     <title>Git的基础操作</title>
     <url>/2023/05/18/Git%E7%9A%84%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</url>
     <content><![CDATA[<ol>
-<li><p>在文件夹目录下鼠标右键单击&#x3D;&#x3D;Git Bush Here&#x3D;&#x3D;弹出git命令行</p>
+<li><p>在文件夹目录下鼠标右键单击Git Bush Here弹出git命令行</p>
 </li>
 <li><p>创建本地仓库</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure>
